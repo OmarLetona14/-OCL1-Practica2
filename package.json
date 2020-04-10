@@ -1,0 +1,19 @@
+{
+  "name": "secondpractice",
+  "version": "1.0.0",
+  "description": "Aplicacion para traducir de c# a python",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Omar Letona",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/OmarLetona14/-OCL1-Practica2.git"
+  }
+}
